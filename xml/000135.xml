@@ -1,0 +1,38 @@
+<annotation>
+	<folder>新建文件夹 (4)</folder>
+	<filename>000135.jpg</filename>
+	<path>C:\Users\lenovo\Desktop\新建文件夹 (4)\000135.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>238</width>
+		<height>165</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>42</ymin>
+			<xmax>107</xmax>
+			<ymax>71</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>58</ymin>
+			<xmax>134</xmax>
+			<ymax>73</ymax>
+		</bndbox>
+	</object>
+</annotation>

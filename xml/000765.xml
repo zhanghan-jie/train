@@ -1,0 +1,38 @@
+<annotation>
+	<folder>新建文件夹 (7)</folder>
+	<filename>000765.jpg</filename>
+	<path>C:\Users\cxy18\Desktop\lableImage\data\新建文件夹 (7)\000765.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>420</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>197</ymin>
+			<xmax>147</xmax>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>190</xmin>
+			<ymin>210</ymin>
+			<xmax>293</xmax>
+			<ymax>336</ymax>
+		</bndbox>
+	</object>
+</annotation>

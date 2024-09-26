@@ -1,0 +1,26 @@
+<annotation>
+	<folder>新建文件夹 (3)</folder>
+	<filename>000593.jpg</filename>
+	<path>D:\OneDrive\桌面\3\新建文件夹 (3)\000593.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>592</width>
+		<height>527</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>325</xmin>
+			<ymin>26</ymin>
+			<xmax>511</xmax>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+</annotation>

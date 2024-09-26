@@ -1,0 +1,26 @@
+<annotation>
+	<folder>图</folder>
+	<filename>000963.jpg</filename>
+	<path>C:\Users\；\Desktop\图\000963.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>358</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>366</xmin>
+			<ymin>7</ymin>
+			<xmax>462</xmax>
+			<ymax>103</ymax>
+		</bndbox>
+	</object>
+</annotation>

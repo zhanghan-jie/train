@@ -1,0 +1,26 @@
+<annotation>
+	<folder>新建文件夹 (4)</folder>
+	<filename>000898.jpg</filename>
+	<path>E:\新建文件夹 (4)\000898.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>658</width>
+		<height>438</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>325</xmin>
+			<ymin>30</ymin>
+			<xmax>441</xmax>
+			<ymax>191</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>新建文件夹 (7)</folder>
+	<filename>000241.jpg</filename>
+	<path>C:\Users\HANK\Desktop\新建文件夹 (7)\000241.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>568</width>
+		<height>798</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>28</ymin>
+			<xmax>455</xmax>
+			<ymax>510</ymax>
+		</bndbox>
+	</object>
+</annotation>

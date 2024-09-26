@@ -1,0 +1,38 @@
+<annotation>
+	<folder>新建文件夹 (3)</folder>
+	<filename>000089.jpg</filename>
+	<path>d:\Documents\Tencent Files\3406055289\FileRecv\1\新建文件夹 (3)\000089.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>458</width>
+		<height>449</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>197</ymin>
+			<xmax>285</xmax>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>261</xmin>
+			<ymin>99</ymin>
+			<xmax>375</xmax>
+			<ymax>214</ymax>
+		</bndbox>
+	</object>
+</annotation>

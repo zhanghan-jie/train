@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3</folder>
+	<filename>000846.jpg</filename>
+	<path>D:\Users\池海玉\Desktop\3\000846.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>237</xmin>
+			<ymin>115</ymin>
+			<xmax>290</xmax>
+			<ymax>181</ymax>
+		</bndbox>
+	</object>
+</annotation>

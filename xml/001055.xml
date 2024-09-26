@@ -1,0 +1,38 @@
+<annotation>
+	<folder>新建文件夹 (8)</folder>
+	<filename>001055.jpg</filename>
+	<path>C:\Users\李佳霖\Desktop\新建文件夹 (8)\001055.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>369</xmin>
+			<ymin>127</ymin>
+			<xmax>382</xmax>
+			<ymax>150</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>135</ymin>
+			<xmax>191</xmax>
+			<ymax>154</ymax>
+		</bndbox>
+	</object>
+</annotation>

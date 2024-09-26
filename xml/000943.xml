@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>000943.jpg</filename>
+	<path>C:\Users\86176\Desktop\四组乔波\img\000943.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>266</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>head</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>3</ymin>
+			<xmax>357</xmax>
+			<ymax>238</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>新建文件夹 (7)</folder>
+	<filename>000516.jpg</filename>
+	<path>C:\Users\hasee\Desktop\新建文件夹 (7)\000516.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>754</width>
+		<height>882</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>121</xmin>
+			<ymin>43</ymin>
+			<xmax>505</xmax>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>head</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>536</xmin>
+			<ymin>288</ymin>
+			<xmax>691</xmax>
+			<ymax>490</ymax>
+		</bndbox>
+	</object>
+</annotation>

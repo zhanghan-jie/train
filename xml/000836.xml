@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>000836.jpg</filename>
+	<path>E:\cv5\新建文件夹 (2)\img\000836.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>811</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>43</ymin>
+			<xmax>760</xmax>
+			<ymax>817</ymax>
+		</bndbox>
+	</object>
+</annotation>

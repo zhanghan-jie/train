@@ -1,0 +1,50 @@
+<annotation>
+	<folder>新建文件夹 (6)</folder>
+	<filename>000459.jpg</filename>
+	<path>C:\Users\17804\Desktop\新建文件夹 (6)\000459.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5340</width>
+		<height>3565</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1805</xmin>
+			<ymin>239</ymin>
+			<xmax>2376</xmax>
+			<ymax>982</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4569</xmin>
+			<ymin>1218</ymin>
+			<xmax>5098</xmax>
+			<ymax>1753</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3941</xmin>
+			<ymin>1</ymin>
+			<xmax>4262</xmax>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+</annotation>

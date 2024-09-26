@@ -1,0 +1,38 @@
+<annotation>
+	<folder>新建文件夹 (2)</folder>
+	<filename>000324.jpg</filename>
+	<path>C:\Users\刘雨晴\Desktop\2\新建文件夹 (2)\000324.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>633</width>
+		<height>500</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>249</ymin>
+			<xmax>164</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>283</xmin>
+			<ymin>274</ymin>
+			<xmax>320</xmax>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+</annotation>

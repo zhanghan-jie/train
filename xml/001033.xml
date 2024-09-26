@@ -1,0 +1,38 @@
+<annotation>
+	<folder>新建文件夹 (8)</folder>
+	<filename>001033.jpg</filename>
+	<path>C:\Users\李佳霖\Desktop\新建文件夹 (8)\001033.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>247</xmin>
+			<ymin>1</ymin>
+			<xmax>434</xmax>
+			<ymax>191</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>head</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>3</ymin>
+			<xmax>194</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>000952.jpg</filename>
+	<path>C:\Users\86176\Desktop\四组乔波\img\000952.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>321</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>12</ymin>
+			<xmax>286</xmax>
+			<ymax>139</ymax>
+		</bndbox>
+	</object>
+</annotation>
